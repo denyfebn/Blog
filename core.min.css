@@ -4,7 +4,11 @@
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/materialicons/v53/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
 }
-
+.breadcrumbs svg {
+  width: 16px;
+  height: 16px;
+  vertical-align: -4px;
+}
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
