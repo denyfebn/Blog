@@ -7,7 +7,6 @@ body#layout .sidebar-wrapper,.sidebar1-wrapper {width:300px;float:right}
 body#layout .sidebar_bleft{width:45%;float:left;}
 body#layout .sidebar_bright{width:45%;float:right;}
 body#layout ul {display: none}
-nav .brand-logo{margin-left:30px;}
 nav, .label a, .page-footer{background-color:#16252e;}
 a:hover{color:#16252e;}
 nav a:hover{color:#fff}
